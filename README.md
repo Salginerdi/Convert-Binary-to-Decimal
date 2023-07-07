@@ -1,2 +1,2 @@
-# ConvertBinaryToDecimal_with_JS
-Javascript ile ikilik(binary) sayıdan onluğa(decimal) çevirme uygulaması
+# Convert Binary to Decimal
+Conversion from binary to decimal with JavaScript.
